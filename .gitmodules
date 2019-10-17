@@ -1,0 +1,6 @@
+[submodule "linenoise"]
+	path = linenoise
+	url = git@github.com:antirez/linenoise.git
+[submodule "libelfin"]
+	path = libelfin
+	url = git@github.com:TartanLlama/libelfin
